@@ -1,1 +1,1 @@
-export * from './inputSensitive'
+export * from './inputSensitiveThrottle'
